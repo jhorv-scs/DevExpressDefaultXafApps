@@ -1,4 +1,4 @@
-﻿# README - Variant A
+﻿# README - Variant B
 Created with the following options.
 
 ## Target Platforms
